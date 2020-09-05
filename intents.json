@@ -52,7 +52,7 @@
         "Are you cash only?"
       ],
       "responses": [
-        "We accept VISA, Mastercard and Paypal",
+        "We accept Mastercard and Paypal",
         "We accept most major credit cards, and Paypal"
       ]
     },
